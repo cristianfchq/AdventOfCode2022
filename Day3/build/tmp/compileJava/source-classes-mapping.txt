@@ -1,8 +1,8 @@
-StringHandler.java
- StringHandler
-ListHandler.java
- ListHandler
 Main.java
  Main
 TxtHandler.java
  TxtHandler
+StringHandler.java
+ StringHandler
+ListHandler.java
+ ListHandler
