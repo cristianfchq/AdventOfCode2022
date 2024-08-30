@@ -44,6 +44,7 @@ bin/
 .DS_Store
 
 ### Code Wars ###
-CodeWars/IsNumberPrime/.idea/
-CodeWars/IsNumberPrime/.gradle/
-CodeWars/IsNumberPrime/build/
+#CodeWars/IsNumberPrime/.idea/*
+#CodeWars/IsNumberPrime/.gradle/*
+#CodeWars/IsNumberPrime/build/*
+#CodeWars/IsNumberPrime/.gitignore
