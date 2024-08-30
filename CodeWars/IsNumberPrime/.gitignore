@@ -9,8 +9,6 @@ build/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-.idea/sonarlint/
-.idea/*
 *.iws
 *.iml
 *.ipr
@@ -42,13 +40,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-### Code Wars ###
-CodeWars/IsNumberPrime/.idea/*
-CodeWars/IsNumberPrime/.gradle/*
-CodeWars/IsNumberPrime/build/*
-CodeWars/IsNumberPrime/.gitignore
-!CodeWars/IsNumberPrime/gradle/wrapper/gradle-wrapper.jar
-!CodeWars/IsNumberPrime/**/src/main/**/build/
-!CodeWars/IsNumberPrime/**/src/test/**/build/
-
