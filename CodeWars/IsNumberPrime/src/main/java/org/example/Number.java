@@ -64,6 +64,10 @@ public class Number {
     return true;
   }
 
+  public boolean isPrime4() {
+    return number > 1 && java.math.BigInteger.valueOf(number).isProbablePrime(20);
+  }
+
   public boolean isGreaterThanOne() {
     return (number > 1) ? true : false;
   }

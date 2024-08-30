@@ -1,8 +1,8 @@
 
 X
-java:S1700"Rename field "number"(òù´Ê8êìóº™2J$dcb4b9dc-7a43-4ecd-bbc9-1af725a554db
-r	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8‰íóº™2J$552c519c-e806-4b81-9625-86192cb86238
+java:S1700"Rename field "number"(òù´Ê8†‘¼»™2J$9bb8aa72-5a2e-4e8e-84be-44dcf6fa480f
+r	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8™‘¼»™2J$0d2f68e0-2a5b-46d6-8c22-5ec7fd2fcf60
 „
-java:S1126"AReplace this if-then-else statement by a single return statement.(È½®¢8Šíóº™2J$1fb7f55a-0378-40c7-888e-f8906ad8d07a
+java:S1126"AReplace this if-then-else statement by a single return statement.(È½®¢8š‘¼»™2J$4e6239b4-fe90-4c5e-9d58-d7649c6b5f1e
 p
-java:S1125D"(Remove the unnecessary boolean literals.(¸åÍßıÿÿÿÿ8íóº™2J$c55b763b-7755-4a1d-88a4-bff50e41b00c
+java:S1125H"(Remove the unnecessary boolean literals.(¸åÍßıÿÿÿÿ8‘¼»™2J$3782633d-3225-4158-885a-0ca845ad4b19
