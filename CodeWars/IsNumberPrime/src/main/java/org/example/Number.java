@@ -38,6 +38,21 @@ public class Number {
     }
   }
 
+  public boolean isPrime2(final int number) {
+    this.number = number;
+    int nSquared = (int)Math.sqrt(number);
+    if (isGreaterThanOne()) {
+      for (int i = 2; i <= nSquared; i++) {
+        if (number % i == 0) {
+          return false;
+        }
+      }
+      return true;
+    } else {
+      return false;
+    }
+  }
+
   public boolean isPrime2() {
     int nSquared = (int)Math.sqrt(number);
     if (isGreaterThanOne()) {
