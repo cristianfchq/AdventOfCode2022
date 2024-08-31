@@ -44,4 +44,10 @@ bin/
 .DS_Store
 
 ### Code Wars ###
-
+CodeWars/SummationOfPrime/.idea/*
+CodeWars/SummationOfPrime/.gradle/*
+CodeWars/SummationOfPrime/build/*
+CodeWars/SummationOfPrime/.gitignore
+!CodeWars/SummationOfPrime/gradle/wrapper/gradle-wrapper.jar
+!CodeWars/SummationOfPrime/**/src/main/**/build/
+!CodeWars/SummationOfPrime/**/src/test/**/build/
